@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This metadata used to store the Fields for Standard and Custom Object and Custom Setting and Custom Metadata.</description>
+    <label>FFLIB FieldSet</label>
+    <pluralLabel>FFLIB FieldSets</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

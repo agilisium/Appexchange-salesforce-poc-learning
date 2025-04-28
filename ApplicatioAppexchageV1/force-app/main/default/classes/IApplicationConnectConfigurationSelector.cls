@@ -1,0 +1,4 @@
+public Interface IApplicationConnectConfigurationSelector extends Aglib_ISObjectSelector
+{
+    ApplicationConnectConfiguration__c getApplicationConnectConfiguration(Id profileOrUserId);
+}

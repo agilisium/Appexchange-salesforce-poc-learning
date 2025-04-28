@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>The metadata used to store the external endpoint method, let&apos;s say GET, PUT, POST ... etc</description>
+    <label>EndpointMethod</label>
+    <pluralLabel>EndpointMethods</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
